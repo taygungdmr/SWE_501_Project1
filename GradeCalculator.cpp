@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-// Taygun Gokdemir 
+// Taygun Gökdemir 
 // Grade Calculator for a Class 
 
 
