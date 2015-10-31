@@ -1,4 +1,4 @@
-// Sleeping Time Calculator
+// Sleeping Time Calculator: Calculates the total sleeping time for a person.
 // Taygun Gökdemir ID: 2015719078
 
 #include "stdafx.h"
